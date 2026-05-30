@@ -1,0 +1,134 @@
+.fon {
+   background-color: black;
+}
+
+h1 {
+   text-align: center ;
+   font-size: 45px;
+}
+
+p {
+   font-size: 20px;
+}
+
+.ty {
+   border: 1px double black;
+}
+
+.center {
+   text-align: center;
+}
+
+.tyt {
+   text-align: center;
+   border: 1px double black;
+}
+
+.silka {
+   border: 3px double black;
+   background-color: white;
+   border-radius: 25px;
+   height: 20px;
+   width: 160px;
+   color: black;
+   position: fixed;
+   bottom: 0px;
+}
+
+div {
+   background-color: white;
+}
+
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+
+.otdacha {
+   margin: 15px ;
+}
+
+.navi {
+   color: black;
+   text-align: center;
+}
+
+.naviga {
+   color: black;
+   top: 0px;
+   right: 20px;
+   position: fixed;
+   background-color: white;
+}
+
+.navigae {
+   color: black;
+   top: 0px;
+   right: 70px;
+   position: fixed;
+   margin: 1px;
+   background-color: white;
+}
+
+.navig {
+   color: black;
+   top: 0px;
+   position: fixed;
+   right: 175px;
+   background-color: white;
+}
+
+.navigal {
+   color: black;
+   top: 0px;
+   position: fixed;
+   right: 290px;
+   background-color: white;
+}
+
+.navigav {
+   color: black;
+   top: 0px;
+   right: 330px;
+   position: fixed;
+   background-color: white;
+}
+
+.navigar {
+   color: black;
+   top: 0px;
+   right: 380px;
+   position: fixed;
+   background-color: white;
+}
+
+.navigay {
+   color: black;
+   top: 0px;
+   right: 490px;
+   position: fixed;
+   background-color: white;
+}
+
+.navigad {
+   color: black;
+   top: 0px;
+   right: 540px;
+   position: fixed;
+   background-color: white;
+}
+
+.navigat {
+   color: black;
+   top: 20px;
+   right: 20px;
+   position: fixed;
+   background-color: white;
+}
+
+.navigan {
+   color: black;
+   top: 20px;
+   right: 110px;
+   position: fixed;
+   background-color: white;
+}
